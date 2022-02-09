@@ -1,6 +1,6 @@
 ### Hello There 🔥
 
-- 🔭 Estudando segurança da informação e desenvolvimento 
+- 🔭 Estudando Ciência da Computação
 - 📫 : tec.vitor.py@gmail.com
 
 <div style="display: inline_block"><br>
